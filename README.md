@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Gould9080
+- 
+- 👀 I’m interested in time travel
+- 🌱 I’m currently learning the secrets of the mole people
+- 💞️ I’m looking to collaborate at the top of Dragonmount
+- 📫 How to reach me through interpretive dance
