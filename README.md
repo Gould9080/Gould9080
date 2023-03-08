@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gould9080
 - 
-- 👀 I’m interested in time travel
-- 🌱 I’m currently learning the secrets of the mole people
-- 💞️ I’m looking to collaborate at the top of Dragonmount
-- 📫 How to reach me through interpretive dance
+- 👀 I’m interested in learning everything I can about software development
+- 🌱 I’m currently completing a full-stack development bootcamp, working with C# / SQL / JS / HTML / CSS / ASP.NET / VUE.JS
+- 📫 How to reach me: (TODO)
