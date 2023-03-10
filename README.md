@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Gould9080
-- 
-- 👀 I’m interested in learning everything I can about software development
-- 🌱 I’m currently completing a full-stack development bootcamp, working with C# / SQL / JS / HTML / CSS / ASP.NET / VUE.JS
-- 📫 How to reach me: (TODO)
+New software developer, interested in learning whatever I can about coding and technology.
+
+Adding personal projects as I go, refactoring as I can.
