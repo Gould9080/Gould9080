@@ -12,7 +12,7 @@ Currently working with C#, HTML, CSS, JavaScript, Vue.JS
 ## Skills  
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gould9080&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gould9080&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=4" />
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
