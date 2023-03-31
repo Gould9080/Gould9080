@@ -1,6 +1,8 @@
 ### Intro
 
-I'm tryna' code, bra
+I'm excited to learn as much as I can about code.
+
+Currently working with C#, HTML, CSS, JavaScript, Vue.JS
 
 <br>
 
