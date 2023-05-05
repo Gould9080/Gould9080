@@ -2,7 +2,9 @@
 
 I'm excited to learn as much as I can about code.
 
-Currently working with C#, HTML, CSS, JavaScript, Vue.JS
+Experience with C#, HTML, CSS, JavaScript, Vue.JS, and Git
+
+Currently learning Ruby, Shopify/Liquid, React, and Docker
 
 <br>
 
