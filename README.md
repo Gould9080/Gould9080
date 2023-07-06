@@ -11,7 +11,7 @@ Currently learning Python, Ruby, React, and Docker
 
 
 
-## Skills  
+## Comfort Zone
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <img align="right" height="150px" width="350px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gould9080&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=4" />
