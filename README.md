@@ -2,9 +2,7 @@
 
 I'm excited to learn as much as I can about code.
 
-Experience with C#, HTML, CSS, JavaScript, Vue.JS, Shopify/Liquid
-
-Currently learning Python, Ruby, React, and Docker
+Experience with .NET/C#, HTML, CSS, JavaScript, Vue.JS, Shopify/Liquid
 
 <br>
 
@@ -27,8 +25,6 @@ Currently learning Python, Ruby, React, and Docker
 
 <br>
 <br>
-<br>
-
 
 
 ## Projects
